@@ -10,7 +10,7 @@
 <h1>New doctrine</h1>
 
 <a href="./create.php">
-    <button  >create</button>
+    <button>create</button>
 </a>
 
 
